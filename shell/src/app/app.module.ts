@@ -12,10 +12,10 @@ import { WrapperComponent } from './wrapper/wrapper.component';
     BrowserModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
-      { matcher: startsWith('mfe1'), component: WrapperComponent, data: { importName: 'mfe1', elementName: 'mfe1-element' }},
-      { matcher: startsWith('mfe2'), component: WrapperComponent, data: { importName: 'mfe2', elementName: 'mfe2-element' }},
-      { matcher: startsWith('mfe3'), component: WrapperComponent, data: { importName: 'mfe3', elementName: 'mfe3-element' }},
-      { matcher: startsWith('mfe4'), component: WrapperComponent, data: { importName: 'mfe4', elementName: 'mfe4-element' }},
+      { matcher: startsWith('angular1'), component: WrapperComponent, data: { importName: 'angular1', elementName: 'angular1-element' }},
+      { matcher: startsWith('angular2'), component: WrapperComponent, data: { importName: 'angular2', elementName: 'angular2-element' }},
+      { matcher: startsWith('angular3'), component: WrapperComponent, data: { importName: 'angular3', elementName: 'angular3-element' }},
+      { matcher: startsWith('react1'), component: WrapperComponent, data: { importName: 'react1', elementName: 'react-element' }},
     ])
   ],
   declarations: [

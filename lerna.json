@@ -3,9 +3,9 @@
   "npmClient": "yarn",
   "packages": [
     "shell",
-    "mfe1", 
-    "mfe2",
-    "mfe3",
-    "mfe4-react"
+    "angular1",
+    "angular2",
+    "angular3",
+    "react1"
   ]
 }

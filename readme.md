@@ -2,6 +2,8 @@
 
 ## Prerequisites
 
+Support Webinar
+
 - yarn
 
 You need yarn to use the AngularCLI11/webpack5 opt-in!

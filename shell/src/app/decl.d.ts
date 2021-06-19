@@ -1,4 +1,4 @@
-declare module 'mfe1/web-components';
-declare module 'mfe2/web-components';
-declare module 'mfe3/web-components';
-declare module 'mfe4/web-components';
+declare module 'angular1/web-components';
+declare module 'angular2/web-components';
+declare module 'angular3/web-components';
+declare module 'react1/web-components';
